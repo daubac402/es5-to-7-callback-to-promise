@@ -83,3 +83,9 @@ mainES5();
 mainES6();
 mainES6Arrow();
 mainES7();
+
+// Result --------------------------------------------------------------
+// mainES5: resultFromA, resultFromB, resultFromC
+// mainES6: resultFromA, resultFromB, resultFromC
+// mainES6Arrow: resultFromA, resultFromB, resultFromC
+// mainES7: resultFromA, resultFromB, resultFromC
